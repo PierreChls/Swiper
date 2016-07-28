@@ -14,6 +14,13 @@ Swiper is not compatible with all platforms, it is a modern touch slider which i
   * [API](http://www.idangero.us/swiper/api/)
   * [Demos](http://www.idangero.us/swiper/demos/)
   * [Forum](http://www.idangero.us/swiper/forum/)
+  
+  
+# Additional options
+
+   Parameter          |      Type     |     Default   |  Description  |
+--------------------- | ------------- | ------------- | ------------- |
+`velocitySensitivity` | number        |       1       | Allow to adjust velocity sensitivity (higher it is, less Swiper is sensitive)
 
 # Dist / Build
 
